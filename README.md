@@ -1,5 +1,6 @@
 # Summer-School-WEEK1
 DAY 2
+
 Assignment-01: Python Assignment (https://github.com/psrana/Assignment-Python)
 
 Assignment-02: Challenge Question (https://github.com/psrana/Assignment-Challenge-Question)
