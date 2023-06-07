@@ -1,4 +1,4 @@
-# Summer-School-WEEK1
+# SUMMER SCHOOL DAY2
 DAY 2
 
 Assignment-01: Python Assignment (https://github.com/psrana/Assignment-Python)
